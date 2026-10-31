@@ -1,0 +1,8 @@
+{
+  "name": "build-with-bharat",
+  "version": "1.0.0",
+  "description": "Claude plugin for the BuildWithBharat5.0 project",
+  "author": {
+    "name": "Suryapatel"
+  }
+}
