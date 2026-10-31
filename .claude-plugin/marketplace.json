@@ -1,0 +1,16 @@
+{
+  "name": "build-with-bharat-marketplace",
+  "owner": {
+    "name": "Suryapatel"
+  },
+  "metadata": {
+    "description": "Plugins for BuildWithBharat5.0"
+  },
+  "plugins": [
+    {
+      "name": "build-with-bharat",
+      "source": "./plugins/build-with-bharat",
+      "description": "BuildWithBharat5.0 development plugin"
+    }
+  ]
+}
